@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TcsStockPricePrediction'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_441A3E6F07234B2D903D81DD8A1BAAF1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0AB9C714ECE6416C923D218F1F433EC9 }}
